@@ -1,4 +1,6 @@
-<img width="1536" height="1024" alt="devopsified" src="https://github.com/user-attachments/assets/49a819b8-cc68-4be0-945a-d9c23c499dba" /># 🚀 Cloud-Native DevOps Platform on AWS EKS
+<img width="1536" height="1024" alt="devopsified" src="https://github.com/user-attachments/assets/49a819b8-cc68-4be0-945a-d9c23c499dba" />
+
+# 🚀 Cloud-Native DevOps Platform on AWS EKS
 
 [![AWS](https://img.shields.io/badge/AWS-EKS-orange)]()
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.34-blue)]()
@@ -193,8 +195,6 @@ Amazon Web Services (AWS)
 * Cloud-Native Architecture
 
 ---
-<img width="1536" height="1024" alt="devopsified" src="https://github.com/user-attachments/assets/9b39a99b-3696-45c9-a7b8-8b4972e31d82" />
-
 
 ## 👨‍💻 Author
 
